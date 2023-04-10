@@ -1,0 +1,384 @@
+# depslib dependency file v1.0
+1650825146 source:c:\users\kuba\ecc2c36c-gr63-repo\projekt\library\book.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Book.h"
+
+1650825146 c:\users\kuba\ecc2c36c-gr63-repo\projekt\library\book.h
+	<iostream>
+	<iostream>
+	<conio.h>
+	<string>
+	<fstream>
+	<stdio.h>
+
+1651087239 source:c:\users\kuba\ecc2c36c-gr63-repo\projekt\library\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdio.h>
+	"Book.h"
+	"Student.h"
+	"Rental.h"
+	<stdlib.h>
+	<conio.h>
+	<memory>
+	"Books.h"
+	"Students.h"
+	"Serializer.h"
+	"Rentals.h"
+
+1655041280 source:c:\users\kinga\downloads\library\book.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Book.h"
+
+1655041152 c:\users\kinga\downloads\library\book.h
+	<string>
+
+1655397681 source:c:\users\kinga\downloads\library\main.cpp
+	<iostream>
+	<string>
+	<memory>
+	<vector>
+	<conio.h>
+	"Serializer.h"
+	"Books.h"
+	"Students.h"
+	"Rentals.h"
+	"arguments.h"
+
+1655397803 source:c:\users\kinga\downloads\library\books.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<map>
+	"Book.h"
+	"Books.h"
+
+1650807593 source:c:\users\kinga\downloads\library\serializer.cpp
+	<string>
+	<fstream>
+	"Serializer.h"
+
+1655397777 c:\users\kinga\downloads\library\serializer.h
+	<string>
+
+1655397712 c:\users\kinga\downloads\library\books.h
+	<map>
+	"Serializer.h"
+	"Book.h"
+
+1650825226 source:c:\users\kuba\ecc2c36c-gr63-repo\projekt\library\books.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<map>
+	"Book.h"
+	"Books.h"
+
+1650825167 c:\users\kuba\ecc2c36c-gr63-repo\projekt\library\books.h
+	<iostream>
+	<map>
+	"Serializer.h"
+	"Book.h"
+
+1650821777 c:\users\kuba\ecc2c36c-gr63-repo\projekt\library\serializer.h
+	<string>
+	<vector>
+
+1651071989 source:c:\users\kuba\ecc2c36c-gr63-repo\projekt\library\students.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<map>
+	"Student.h"
+	"Students.h"
+
+1651071551 c:\users\kuba\ecc2c36c-gr63-repo\projekt\library\students.h
+	<iostream>
+	<map>
+	"Serializer.h"
+	"Student.h"
+
+1651071335 source:c:\users\kuba\ecc2c36c-gr63-repo\projekt\library\student.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Student.h"
+
+1651073446 c:\users\kuba\ecc2c36c-gr63-repo\projekt\library\student.h
+	<iostream>
+	<iostream>
+	<conio.h>
+	<string>
+	<fstream>
+	<stdio.h>
+
+1651086675 source:c:\users\kuba\ecc2c36c-gr63-repo\projekt\library\rentals.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<map>
+	"Rental.h"
+	"Rentals.h"
+
+1651087676 c:\users\kuba\ecc2c36c-gr63-repo\projekt\library\rental.h
+	<iostream>
+	<iostream>
+	<conio.h>
+	<string>
+	<fstream>
+	<stdio.h>
+	<windows.h>
+	<winbase.h>
+
+1651086675 c:\users\kuba\ecc2c36c-gr63-repo\projekt\library\rentals.h
+	<iostream>
+	<map>
+	"Serializer.h"
+	"Book.h"
+
+1651086453 source:c:\users\kuba\ecc2c36c-gr63-repo\projekt\library\rental.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Rental.h"
+	<windows.h>
+	<winbase.h>
+
+1652535845 source:c:\users\kinga\downloads\library3\library\book.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Book.h"
+
+1652537803 c:\users\kinga\downloads\library3\library\book.h
+	<string>
+
+1652536960 source:c:\users\kinga\downloads\library3\library\books.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<map>
+	"Book.h"
+	"Books.h"
+
+1652537825 c:\users\kinga\downloads\library3\library\books.h
+	<map>
+	"Serializer.h"
+	"Book.h"
+
+1652537893 c:\users\kinga\downloads\library3\library\serializer.h
+	<string>
+
+1652537967 source:c:\users\kinga\downloads\library3\library\main.cpp
+	<iostream>
+	<string>
+	<memory>
+	<vector>
+	<conio.h>
+	"Serializer.h"
+	"Books.h"
+	"Students.h"
+	"Rentals.h"
+
+1652537952 c:\users\kinga\downloads\library3\library\student.h
+	<string>
+
+1652538215 c:\users\kinga\downloads\library3\library\rental.h
+	<string>
+
+1652537189 c:\users\kinga\downloads\library3\library\students.h
+	<iostream>
+	<map>
+	"Serializer.h"
+	"Student.h"
+
+1652537880 c:\users\kinga\downloads\library3\library\rentals.h
+	<map>
+	"Serializer.h"
+	"Rental.h"
+
+1652538861 source:c:\users\kinga\downloads\library3\library\rentals.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<map>
+	"Rental.h"
+	"Rentals.h"
+
+1652537341 source:c:\users\kinga\downloads\library3\library\students.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<map>
+	"Student.h"
+	"Students.h"
+
+1652539437 source:c:\users\kinga\downloads\library3\library\rental.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<chrono>
+	"Rental.h"
+
+1652535467 source:c:\users\kinga\downloads\library3\library\student.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Student.h"
+
+1655377151 source:c:\users\kuba\tajne\book.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Book.h"
+
+1655377151 c:\users\kuba\tajne\book.h
+	<string>
+
+1655377151 source:c:\users\kuba\tajne\books.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<map>
+	"Book.h"
+	"Books.h"
+
+1655377151 c:\users\kuba\tajne\books.h
+	<map>
+	"Serializer.h"
+	"Book.h"
+
+1655377151 c:\users\kuba\tajne\serializer.h
+	<string>
+
+1655378649 source:c:\users\kuba\tajne\main.cpp
+	<iostream>
+	<string>
+	<memory>
+	<vector>
+	<conio.h>
+	"Serializer.h"
+	"Books.h"
+	"Students.h"
+	"Rentals.h"
+	"arguments.h"
+
+1655377151 c:\users\kuba\tajne\students.h
+	<iostream>
+	<map>
+	"Serializer.h"
+	"Student.h"
+
+1655377151 c:\users\kuba\tajne\student.h
+	<string>
+
+1655377151 c:\users\kuba\tajne\rentals.h
+	<map>
+	"Serializer.h"
+	"Rental.h"
+	"Books.h"
+	"Students.h"
+
+1655377151 c:\users\kuba\tajne\rental.h
+	<string>
+
+1655377151 source:c:\users\kuba\tajne\rental.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<chrono>
+	"Rental.h"
+	"Books.h"
+
+1655377151 source:c:\users\kuba\tajne\rentals.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<map>
+	"Rental.h"
+	"Rentals.h"
+
+1655377151 source:c:\users\kuba\tajne\student.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Student.h"
+
+1655377151 source:c:\users\kuba\tajne\students.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<map>
+	"Student.h"
+	"Students.h"
+
+1655397747 c:\users\kinga\downloads\library\students.h
+	<iostream>
+	<map>
+	"Serializer.h"
+	"Student.h"
+
+1655041187 c:\users\kinga\downloads\library\student.h
+	<string>
+
+1655397733 c:\users\kinga\downloads\library\rentals.h
+	<map>
+	"Serializer.h"
+	"Rental.h"
+	"Books.h"
+	"Students.h"
+
+1655041162 c:\users\kinga\downloads\library\rental.h
+	<string>
+
+1652535467 source:c:\users\kinga\downloads\library\student.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Student.h"
+
+1655398092 source:c:\users\kinga\downloads\library\students.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<map>
+	"Student.h"
+	"Students.h"
+
+1652810975 source:c:\users\kinga\downloads\library\rental.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<chrono>
+	"Rental.h"
+	"Books.h"
+
+1655397818 source:c:\users\kinga\downloads\library\rentals.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<map>
+	"Rental.h"
+	"Rentals.h"
+
+1655378649 source:c:\users\kuba\tajne\arguments.cpp
+	"arguments.h"
+	<cstring>
+	<iostream>
+
+1655378649 c:\users\kuba\tajne\arguments.h
+	<string>
+
+1655397649 source:c:\users\kinga\downloads\library\arguments.cpp
+	"arguments.h"
+	<cstring>
+	<iostream>
+
+1655396879 c:\users\kinga\downloads\library\arguments.h
+	<string>
+
